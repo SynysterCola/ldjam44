@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":2457,"scrollY":1383}
+{"id":1,"expanded":true,"name":"Game Start","order":1,"parentId":0,"scrollX":2457,"scrollY":1383},
+{"id":2,"expanded":false,"name":"Snow Top","order":2,"parentId":0,"scrollX":2457,"scrollY":1383}
 ]

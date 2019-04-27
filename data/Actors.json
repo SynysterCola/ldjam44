@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":1,"equips":[5,1,2,3,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Charlotte","nickname":"The Life Witch","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":1,"equips":[5,1,2,3,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Charlotte","nickname":"The Life Witch","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[0,1,2,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hendrik","nickname":"The Life Witch","note":"","profile":""}
 ]
