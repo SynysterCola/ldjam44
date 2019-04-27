@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Game Start","order":1,"parentId":0,"scrollX":2457,"scrollY":1383},
-{"id":2,"expanded":false,"name":"Snow Top","order":2,"parentId":0,"scrollX":2457,"scrollY":1383}
+{"id":2,"expanded":false,"name":"Snow Top","order":2,"parentId":0,"scrollX":2457,"scrollY":1383},
+{"id":3,"expanded":false,"name":"CutScene1","order":3,"parentId":0,"scrollX":2457,"scrollY":1383}
 ]
