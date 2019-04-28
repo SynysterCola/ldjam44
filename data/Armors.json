@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"atypeId":1,"description":"A standard issue battle vest.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Battle Vest","note":"","params":[0,0,0,5,0,2,0,0],"price":100},
-{"id":2,"atypeId":1,"description":"A standard shield.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":129,"name":"Wooden Sheild","note":"","params":[0,0,0,1,0,1,0,0],"price":100},
-{"id":3,"atypeId":1,"description":"Gloves meant for combat.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":142,"name":"Fighter Gloves","note":"","params":[0,0,2,1,0,0,0,0],"price":55},
-{"id":4,"atypeId":1,"description":"Leggings meant for combat.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Fighter Leggings","note":"","params":[0,0,0,1,0,1,2,0],"price":100},
+{"id":2,"atypeId":1,"description":"A standard shield.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.02}],"iconIndex":129,"name":"Wooden Shield","note":"","params":[0,0,0,1,0,1,0,0],"price":100},
+{"id":3,"atypeId":1,"description":"Gloves meant for combat.","etypeId":5,"traits":[],"iconIndex":142,"name":"Fighter Gloves","note":"","params":[0,0,2,1,0,0,0,0],"price":55},
+{"id":4,"atypeId":1,"description":"Leggings meant for combat.","etypeId":6,"traits":[],"iconIndex":136,"name":"Fighter Leggings","note":"","params":[0,0,0,1,0,1,2,0],"price":100},
 {"id":5,"atypeId":1,"description":"A special ring that bonds siblings.","etypeId":7,"traits":[],"iconIndex":145,"name":"Sibling Ring","note":"","params":[0,0,0,0,4,0,0,0],"price":500},
 {"id":6,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"----------------","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":7,"atypeId":1,"description":"Robes worn by those who heal.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":138,"name":"Medic Robes","note":"","params":[0,0,0,1,0,6,0,0],"price":100},
