@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"animationId":11,"description":"Charlotte's harpoon. Great for hunting and destroying\nenemies.","etypeId":1,"traits":[{"code":31,"dataId":9,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":107,"name":"Trusty Harpoon","note":"","params":[0,0,12,0,0,0,0,0],"price":0,"wtypeId":12},
+{"id":1,"animationId":11,"description":"\\N[1]'s harpoon. Great for hunting and destroying\nenemies.","etypeId":1,"traits":[{"code":31,"dataId":9,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":107,"name":"Trusty Harpoon","note":"","params":[0,0,12,0,0,0,0,0],"price":0,"wtypeId":12},
 {"id":2,"animationId":6,"description":"A blade that excels at cutting skin","etypeId":1,"traits":[{"code":31,"dataId":10,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Medic Dagger","note":"","params":[0,0,8,0,0,0,0,0],"price":500,"wtypeId":1}
 ]
