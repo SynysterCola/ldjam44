@@ -10,5 +10,7 @@ null,
 {"id":8,"atypeId":1,"description":"A cap worn by those who heal.","etypeId":3,"traits":[],"iconIndex":133,"name":"Medic Cap","note":"","params":[0,0,0,0,2,2,0,0],"price":150},
 {"id":9,"atypeId":1,"description":"Gloves worn by those who heal.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":142,"name":"Medic Gloves","note":"","params":[0,0,1,1,0,1,0,0],"price":55},
 {"id":10,"atypeId":1,"description":"Leggings worn by those who heal.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Medic Leggings","note":"","params":[0,0,0,1,0,1,1,0],"price":100},
-{"id":11,"atypeId":1,"description":"A necklace that slightly increases healing from\nitems used by the user.","etypeId":7,"traits":[{"code":23,"dataId":3,"value":1.05}],"iconIndex":145,"name":"Potent Necklace","note":"","params":[0,0,0,1,0,1,0,1],"price":800}
+{"id":11,"atypeId":1,"description":"A necklace that slightly increases healing from\nitems used by the user.","etypeId":7,"traits":[{"code":23,"dataId":3,"value":1.05}],"iconIndex":145,"name":"Potent Necklace","note":"","params":[0,0,0,1,0,1,0,1],"price":800},
+{"id":12,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"----------------","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":1,"description":"A special band wore on the head that is said to\nprevent Poison.","etypeId":3,"traits":[{"code":14,"dataId":4,"value":1}],"iconIndex":134,"name":"Antidote Band","note":"","params":[0,0,0,0,1,1,0,0],"price":100}
 ]
